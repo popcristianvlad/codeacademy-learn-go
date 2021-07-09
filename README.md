@@ -4,4 +4,6 @@
 
 Solutions & notes for the Learn Go | Codeacademy Course.
 
-Course URL: https://www.codecademy.com/learn/learn-go
+Codeacademy course URL: https://www.codecademy.com/learn/learn-go
+
+Codeacademy profile URL: https://www.codecademy.com/profiles/popcristianvlad
